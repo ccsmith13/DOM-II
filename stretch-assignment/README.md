@@ -23,10 +23,10 @@ Topics:
  You are going to create a simple game where rockets can be moved up and down by clicking on them.  There are travelers inside of these rockets that can blast off as long as you hold the mouse down on their rocket.
 
  Rockets:
-  * When a block is clicked, it should go to the top of the stack.
+  * When a block is clicked, it should go to the top of the stack. DONE 
 
  Travelers:
-  * While a mouse is clicked down on a box, it should move to the right (It should coninuously move, there is no limit on how far it will go).
+  * While a mouse is clicked down on a box, it should move to the right (It should coninuously move, there is no limit on how far it will go). DONE? motion isn't "continuous" but it does move when clicked on.
   
 ## Stretch Goals
   
